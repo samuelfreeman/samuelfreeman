@@ -17,7 +17,7 @@
 # 📊 GitHub Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfreeman&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelfreeman&show_icons=true&theme=transparent) 
+
 ![](https://github-readme-stats.vercel.app/api?username=samuelfreeman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samuelfreeman&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfreeman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
