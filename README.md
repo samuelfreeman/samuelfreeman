@@ -3,10 +3,9 @@
 - 🌱 I’m currently learning MERN(mongo Db, Express , React , Nodejs)
 - 💞️ I’m looking to collaborate with other programmers to expand my field of knowledge
 
-
-<p align="center">
+<div style="display: inline-block; border: 2px solid white; padding: 5px;">
  <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="50%">
-</p>
+</div>
 
 
 
