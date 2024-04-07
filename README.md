@@ -2,7 +2,12 @@
 - 👀 I’m interested in being a fullstack developer
 - 🌱 I’m currently learning MERN(mongo Db, Express , React , Nodejs)
 - 💞️ I’m looking to collaborate with other programmers to expand my field of knowledge
-![GIF Description](https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif)
+
+
+<p align="center">
+ <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="50%">
+</p>
+
 
 
 
