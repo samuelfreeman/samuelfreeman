@@ -2,12 +2,7 @@
 - 👀 I’m interested in being a fullstack developer
 - 🌱 I’m currently learning MERN(mongo Db, Express , React , Nodejs)
 - 💞️ I’m looking to collaborate with other programmers to expand my field of knowledge
-
-<div id="header" align="center">
- 
- <img src="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN" width="100"/>
-
-</div>
+<iframe src="https://giphy.com/embed/Rpl1sod1vCXK0L2SUN" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN">via GIPHY</a></p>
 
 
 # 💻 Tech Stack:
