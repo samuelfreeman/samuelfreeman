@@ -5,7 +5,7 @@
 
 <div id="header" align="center">
  
- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ <img src="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN" width="100"/>
 
 </div>
 
