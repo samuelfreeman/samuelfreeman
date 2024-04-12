@@ -20,7 +20,7 @@
 
 # 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfreeman&layout=compact)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=samuelfreeman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samuelfreeman&theme=dark&hide_border=false)<br/>
