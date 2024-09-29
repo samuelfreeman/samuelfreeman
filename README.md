@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuelfreeman
-- 👀 I’m interested in being a fullstack developer
-- 🌱 I’m currently learning MERN(mongo Db, Express , React , Nodejs)
+- 👀 I’m interested in being a Backend developer
+- 🌱 I’m currently learing and looking to collaborate .
 - 💞️ I’m looking to collaborate with other programmers to expand my field of knowledge
 
 <div style="display: inline-block; border: 2px solid white; padding: 5px;">
