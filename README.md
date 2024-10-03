@@ -10,6 +10,7 @@
 
 
 
+[![](https://visitcount.itsvg.in/api?id=samuelfreeman&icon=0&color=2)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -24,13 +25,11 @@
 
 ---
 
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[![](https://visitcount.itsvg.in/api?id=samuelfreeman&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
 
