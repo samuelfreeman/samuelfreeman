@@ -3,10 +3,7 @@
 - 🌱 I’m currently learing and looking to collaborate .
 - 💞️ I’m looking to collaborate with other programmers to expand my field of knowledge
 
-<!-- Background Image -->
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1521979406534-74d3b2b15307?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGNvb2wlMjBiYWNrZ3JvdW5kfGVufDB8fHx8MTY3MjAxODQ0NQ&ixlib=rb-4.0.3&q=80&w=1080" width="100%" alt="Cool background">
-</div>
+
 
 
 <div style="display: inline-block; border: 2px solid white; padding: 5px;">
