@@ -24,6 +24,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=samuelfreeman&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samuelfreeman&theme=onedark&hide_border=true)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=samuelfreeman&theme=dark)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfreeman&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
