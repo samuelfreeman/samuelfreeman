@@ -6,7 +6,7 @@
 
 
 
-<div style="display: inline-block; border: 2px solid white; padding: 5px;">
+<div style="display: ; border: 2px solid white; padding: 5px;">
  <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="50%">
 </div>
 
