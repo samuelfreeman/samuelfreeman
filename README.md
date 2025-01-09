@@ -6,7 +6,7 @@
 
 
 
-<div style="display:flex ; border: 2px solid white; padding: 5px; justify-content:center;">
+<div style="display:flex ; border: 2px solid white; padding: 5px; justify-content:center; width:100%">
  <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="50%">
 </div>
 
