@@ -8,7 +8,7 @@
 
 ## 🎥 Featured GIF
 
-<div align="center" style="border: 4px solid white; padding: 5px; display: inline-block; border-radius: 10px;">
+<div align="center" style="border: 4px solid white; background-color:white;  padding: 5px; display: inline-block; border-radius: 10px;">
     <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="100%" style="border-radius: 10px;">
 </div>
 
