@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @samuelfreeman
+# 👋 Hi, I’m Samuel (Twum) Boateng often called : SamuelFreeman.
 
 ### 👀 I'm an enthusiastic Backend Developer
 - 🌱 Currently learning and looking to collaborate.
