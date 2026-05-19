@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Samuel (Twum) Boateng often called : SamuelFreeman.
 
-### 👀 I'm an enthusiastic Backend Developer
-- 🌱 Currently learning and looking to collaborate.
-- 💞️ Open to collaborating with other programmers to expand my knowledge.
+###  I'm a passionate Backend Developer who loves challenges.
+-  Currently building and exploring the tech world and keeping up to date on the lastest technology.
+-  Open to collaborating with other programmers to expand my knowledge and contribute to projects that have impact on the world.
 
 ---
 
@@ -34,6 +34,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
 
 ---
 
