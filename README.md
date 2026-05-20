@@ -1,42 +1,95 @@
-# 👋 Hi, I’m Samuel (Twum) Boateng often called : SamuelFreeman.
+<h1 align="center">Hi 👋🏾, I’m Samuel Twum Boateng</h1>
 
-###  I'm a passionate Backend Developer who loves challenges.
--  Currently building and exploring the tech world and keeping up to date on the lastest technology.
--  Open to collaborating with other programmers to expand my knowledge and contribute to projects that have impact on the world.
+<h3 align="center">
+Backend Developer | API Engineer | TypeScript & Go Enthusiast
+</h3>
+
+<p align="center">
+I’m also known as <strong>SamuelFreeman</strong>. I enjoy building secure, scalable, and reliable backend systems that solve real-world problems.
+</p>
+
+---
+
+## 👨🏾‍💻 About Me
+
+I am a passionate Backend Developer with a strong interest in API development, database design, system architecture, and performance optimization.
+
+- 🔭 Currently building backend systems with **Node.js, Express.js, NestJS, Go, PostgreSQL, MySQL, and Redis**
+- 🌱 Exploring **Go, microservices, cloud deployment, DevOps, and system design**
+- 🧠 Interested in **secure APIs, scalable backend architecture, automation, and developer tools**
+- 🤝 Open to collaborating with developers on impactful projects
+- 🚀 I love challenges because they help me grow as an engineer
+- 💬 Ask me about **Backend Development, REST APIs, Databases, Authentication, and Deployment**
 
 ---
 
 ## 🎥 Featured GIF
 
-<div align="center" style="border: 4px solid white; background-color:white;  padding: 5px; display: inline-block; border-radius: 10px;">
-    <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="100%" style="border-radius: 10px;">
+<div align="center">
+  <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="85%" style="border-radius: 10px;" />
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=samuelfreeman&icon=0&color=2)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=samuelfreeman&icon=0&color=2" />
+</p>
 
 ---
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-twum-boateng-b53649270/)
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-twum-boateng-b53649270/">
+    <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Twum%20Boateng-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 💻 Tech Stack:
+## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![Nginx](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### Backend Frameworks & Runtime
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+</p>
+
+### Databases & Caching
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### Tools, Cloud & Deployment
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🚀 What I Focus On
+
+```txt
+Backend Engineering        REST APIs
+Database Design            Authentication & Authorization
+System Architecture        Performance Optimization
+Cloud Deployment           Developer Tools
 
 ---
 
